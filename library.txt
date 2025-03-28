@@ -1,0 +1,25 @@
+streamlit-lottie
+
+[
+    {
+        "Title": "lost in dark",
+        "Author": "Arsh Ali Azam",
+        "Year": 2025,
+        "Genre": "Horror",
+        "Read": true
+    },
+    {
+        "Title": "Age of Ultron",
+        "Author": "Arsh Ali Azam",
+        "Year": 2025,
+        "Genre": "Action",
+        "Read": true
+    },
+    {
+        "Title": "Avenger Doomsday",
+        "Author": "Arsh and RDJ",
+        "Year": 2026,
+        "Genre": "Full Action ",
+        "Read": true
+    }
+]
